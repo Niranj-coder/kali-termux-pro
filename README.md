@@ -12,8 +12,9 @@ I made this because I got tired of manually setting up PRoot every time I switch
 
 ### How to use it:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/kali-termux-pro](https://github.com/YOUR_USERNAME/kali-termux-pro)
+git clone https://github.com/Niranj-coder/kali-termux-pro
 cd kali-termux-pro
 chmod +x install.sh
 ./install.sh
+
 
