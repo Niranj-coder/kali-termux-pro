@@ -2,7 +2,9 @@
 
 Simple automation script to get Kali NetHunter (rootless) running in Termux without the headache. 
 
-I made this because I got tired of manually setting up PRoot every time I switched ROMs or reset my phone. 
+I made this because I got tired of manually setting up PRoot every time I switched ROMs or reset my phone.
+
+Note: I'm still working on this and learning as I go, so there might be bugs. Let me know if you encounter any issues on your device while running this.
 
 ### What it actually does:
 * Updates Termux repos (standard stuff)
