@@ -13,10 +13,16 @@ Note: I'm still working on this and learning as I go, so there might be bugs. Le
 * Runs the installer for you
 
 ### How to use it:
-```bash
+
+# Install git first
+pkg install git -y
+
+# Clone and run
 git clone https://github.com/Niranj-coder/kali-termux-pro
 cd kali-termux-pro
 chmod +x install.sh
 ./install.sh
+
+
 
 
