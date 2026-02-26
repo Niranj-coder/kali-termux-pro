@@ -14,14 +14,7 @@ Note: I'm still working on this and learning as I go, so there might be bugs. Le
 
 ### How to use it:
 
-# Install git first
-pkg install git -y
-
-# Clone and run
-git clone https://github.com/Niranj-coder/kali-termux-pro
-cd kali-termux-pro
-chmod +x install.sh
-./install.sh
+pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Niranj-coder/kali-termux-pro && cd kali-termux-pro && chmod +x install.sh && ./install.sh
 
 
 
